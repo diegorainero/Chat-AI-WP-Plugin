@@ -1,2 +1,2 @@
-# blackboxai-1743498682832
-Built by https://www.blackbox.ai
+# Chat Ai Plugin Wordpress
+First Chat AI plugin Wordpress
