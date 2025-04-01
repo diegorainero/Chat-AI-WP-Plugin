@@ -1,0 +1,32 @@
+/* Minimal CSS for chat widget - main styling handled by Tailwind CDN */
+#ai-chat-container {
+    z-index: 9999;
+    transition: all 0.3s ease;
+}
+
+#ai-chat-messages {
+    scrollbar-width: thin;
+    scrollbar-color: #3b82f6 #e5e7eb;
+}
+
+#ai-chat-messages::-webkit-scrollbar {
+    width: 8px;
+}
+
+#ai-chat-messages::-webkit-scrollbar-track {
+    background: #e5e7eb;
+}
+
+#ai-chat-messages::-webkit-scrollbar-thumb {
+    background-color: #3b82f6;
+    border-radius: 4px;
+}
+
+#ai-chat-toggle {
+    z-index: 10000;
+    transition: transform 0.2s ease;
+}
+
+#ai-chat-toggle:hover {
+    transform: scale(1.1);
+}
