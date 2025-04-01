@@ -3,7 +3,7 @@
  * Plugin Name: AI Chat Plugin
  * Description: A WordPress plugin that uses AI to provide a chat interface for users to query site information.
  * Version: 1.0
- * Author: Your Name
+ * Author: Diego Rainero
  */
 
 // Exit if accessed directly
